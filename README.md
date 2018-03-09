@@ -1,5 +1,5 @@
 # Breakthrough-Improved-Alpha-Beta
-Improved implementation of an Alpha Beta algorithm for the game Breakthrough. Originally done for a Game AI course.
+Improved implementation of an Alpha Beta algorithm for the game Breakthrough. Originally written for a Game AI course.
 
 
 ## Notes
